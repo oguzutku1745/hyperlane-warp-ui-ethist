@@ -1,6 +1,6 @@
 {
-  "name": "@hyperlane-xyz/warp-ui-template",
-  "description": "A web app template for building Hyperlane Warp Route UIs",
+  "name": "@hyperlane-xyz/warp-ui-template-ethist",
+  "description": "A web app template for building Hyperlane Warp Route UIs for ethIstanbul",
   "version": "3.1.0-beta4",
   "author": "J M Rossy",
   "dependencies": {
@@ -65,7 +65,6 @@
   "license": "Apache-2.0",
   "main": "dist/src/index.js",
   "packageManager": "yarn@3.2.0",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/hyperlane-xyz/hyperlane-warp-ui-template"
